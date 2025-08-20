@@ -34,6 +34,11 @@ A React-based interactive visualization tool for learning and exploring sorting 
 - Active comparisons are highlighted (yellow).
 - Swaps are highlighted (red).
 - Sorted elements are marked (green).
+
+## 🚀 Live Demo
+
+🔗 Click the link here ==> https://dev-abhishek1310.github.io/Sorting-Visualizer/
+
 ## 🛠️ Tech Stack
 - React (Functional Components + Hooks)
 - Tailwind CSS for styling
